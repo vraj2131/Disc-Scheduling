@@ -5,7 +5,6 @@ This project is a website designed to simulate and understand different disk sch
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [Screenshots](#screenshots)
@@ -26,18 +25,6 @@ Disk scheduling is an essential function of operating systems, where I/O request
 - Comparison of different algorithms.
 - Responsive design with Bootstrap.
 
-## Installation
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/manavukani/Disk-Scheduling-Algorithm-Simulation.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd disk-scheduling-algorithms
-   ```
-3. Open `index.html` in your browser to view the website.
 
 ## Usage
 1. Open `index.html` to view the homepage.
